@@ -1,13 +1,9 @@
 # TablesToHtml
 Python FastApi MySQL - Create tables if not exist, download JSON to populate tables
 
-Here is a detailed GitHub README that explains the purpose and usage of the files in your project. This will help others (and yourself) understand how to work with your project, including setting up the environment, running the application, and managing the database.
+# Data Web Application
 
----
-
-# Racing Data Web Application
-
-This project is a web application built with **FastAPI**, **SQLAlchemy**, and **MySQL** to fetch and display horse racing data. The data is fetched from a GraphQL API and stored in a MySQL database. The web application allows users to view meeting and race information dynamically.
+This project is a web application built with **FastAPI**, **SQLAlchemy**, and **MySQL** to fetch and display certain data stored in a database. The data is fetched via API and stored in a MySQL database. The web application allows users to view information dynamically.
 
 ## **File Overview**
 
